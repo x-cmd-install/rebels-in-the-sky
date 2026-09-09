@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9737827,
       "digest": "sha256:86ce07cf8dbca6386058820579b7c60e870213d55fc4a2451a16f22205ba413f",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-05T17:11:20Z",
       "updated_at": "2026-09-05T17:11:21Z",
       "browser_download_url": "https://github.com/ricott1/rebels-in-the-sky/releases/download/v1.8.1/rebels-v1.8.1-x86_64-unknown-linux-gnu.tar.gz"
