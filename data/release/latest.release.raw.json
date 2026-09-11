@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9055159,
       "digest": "sha256:d174f6f90ee7e4e6522a49358de86dfda3b12e505ddd44ad8c275019e3f19559",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-05T17:05:27Z",
       "updated_at": "2026-09-05T17:05:36Z",
       "browser_download_url": "https://github.com/ricott1/rebels-in-the-sky/releases/download/v1.8.1/rebels-v1.8.1-x86_64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9737827,
       "digest": "sha256:86ce07cf8dbca6386058820579b7c60e870213d55fc4a2451a16f22205ba413f",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-05T17:11:20Z",
       "updated_at": "2026-09-05T17:11:21Z",
       "browser_download_url": "https://github.com/ricott1/rebels-in-the-sky/releases/download/v1.8.1/rebels-v1.8.1-x86_64-unknown-linux-gnu.tar.gz"
