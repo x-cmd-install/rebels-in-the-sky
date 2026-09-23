@@ -4,7 +4,7 @@
 
 P2P terminal game about spacepirates playing basketball across the galaxy
 
-[![x-cmd/install — rebels-in-the-sky Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rebels-in-the-sky.svg?lang=zh)](https://x-cmd.com/install/rebels-in-the-sky)
+[![x-cmd/install — rebels-in-the-sky Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/rebels-in-the-sky.svg?lang=zh)](https://x-cmd.com/install/rebels-in-the-sky)
 
 ## 安装
 
@@ -48,12 +48,12 @@ x install rebels-in-the-sky
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 4 | 1 | 1 | 1 | 2 |
-| last60d | 2026-07-24 | 2 | 4 | 1 | 1 | 1 | 13 |
-| 90d | 2026-06-24 | 3 | 5 | 1 | 1 | 1 | 80 |
-| last180d | 2026-03-26 | 6 | 23 | 3 | 1 | 2 | 94 |
-| 360d | 2025-09-27 | 29 | 24 | 3 | 2 | 2 | 123 |
-| last720d | 2024-10-02 | 43 | 28 | 3 | 12 | 2 | 147 |
+| 30d | 2026-08-24 | 2 | 4 | 1 | 1 | 1 | 2 |
+| last60d | 2026-07-25 | 2 | 4 | 1 | 1 | 1 | 13 |
+| 90d | 2026-06-25 | 3 | 5 | 1 | 1 | 1 | 80 |
+| last180d | 2026-03-27 | 6 | 23 | 3 | 1 | 2 | 94 |
+| 360d | 2025-09-28 | 29 | 24 | 3 | 2 | 2 | 123 |
+| last720d | 2024-10-03 | 43 | 28 | 3 | 12 | 2 | 147 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ rebels-in-the-sky 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:05:00Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:06:27Z._
