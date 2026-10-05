@@ -48,12 +48,12 @@ Total: **53,243** lines of code across **137** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 1 | 3 | 2 | 0 | 1 | 2 |
-| last60d | 2026-08-05 | 2 | 5 | 2 | 1 | 1 | 11 |
-| 90d | 2026-07-06 | 2 | 6 | 2 | 1 | 1 | 77 |
-| last180d | 2026-04-07 | 6 | 24 | 4 | 1 | 2 | 94 |
-| 360d | 2025-10-09 | 29 | 25 | 4 | 2 | 2 | 123 |
-| last720d | 2024-10-14 | 42 | 29 | 4 | 11 | 2 | 146 |
+| 30d | 2026-09-05 | 1 | 1 | 2 | 0 | 1 | 0 |
+| last60d | 2026-08-06 | 2 | 5 | 2 | 1 | 1 | 8 |
+| 90d | 2026-07-07 | 2 | 5 | 2 | 1 | 1 | 59 |
+| last180d | 2026-04-08 | 6 | 24 | 4 | 1 | 2 | 94 |
+| 360d | 2025-10-10 | 29 | 25 | 4 | 2 | 2 | 122 |
+| last720d | 2024-10-15 | 42 | 29 | 4 | 11 | 2 | 145 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for rebels-in-the-sky lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T05:58:05Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:49:28Z._
