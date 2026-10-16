@@ -42,18 +42,18 @@ Total: **53,243** lines of code across **137** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 32 · **Open PRs**: 4 · **Closed issues**: 19 · **Open issues**: 2 · **Commits**: 220
+- **Releases**: 61 · **Merged PRs**: 33 · **Open PRs**: 5 · **Closed issues**: 19 · **Open issues**: 2 · **Commits**: 220
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 1 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-16 | 2 | 5 | 2 | 1 | 1 | 6 |
-| 90d | 2026-07-17 | 2 | 5 | 2 | 1 | 1 | 36 |
-| last180d | 2026-04-18 | 6 | 24 | 4 | 1 | 2 | 94 |
-| 360d | 2025-10-20 | 28 | 25 | 4 | 2 | 2 | 122 |
-| last720d | 2024-10-25 | 41 | 28 | 4 | 9 | 2 | 144 |
+| 30d | 2026-09-16 | 0 | 2 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-17 | 2 | 6 | 3 | 1 | 1 | 6 |
+| 90d | 2026-07-18 | 2 | 6 | 3 | 1 | 1 | 36 |
+| last180d | 2026-04-19 | 6 | 25 | 5 | 1 | 2 | 94 |
+| 360d | 2025-10-21 | 28 | 26 | 5 | 2 | 2 | 122 |
+| last720d | 2024-10-26 | 41 | 29 | 5 | 9 | 2 | 144 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for rebels-in-the-sky lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:48:59Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:36:53Z._
