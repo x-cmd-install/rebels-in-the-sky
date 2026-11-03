@@ -48,12 +48,12 @@ Total: **53,243** lines of code across **137** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 3 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 1 | 6 | 2 | 0 | 1 | 0 |
-| 90d | 2026-08-04 | 2 | 8 | 2 | 1 | 1 | 8 |
-| last180d | 2026-05-06 | 6 | 25 | 4 | 1 | 2 | 89 |
-| 360d | 2025-11-07 | 26 | 28 | 4 | 2 | 2 | 120 |
-| last720d | 2024-11-12 | 41 | 31 | 4 | 9 | 2 | 142 |
+| 30d | 2026-10-04 | 0 | 3 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-04 | 1 | 6 | 2 | 0 | 1 | 0 |
+| 90d | 2026-08-05 | 2 | 8 | 2 | 1 | 1 | 8 |
+| last180d | 2026-05-07 | 6 | 25 | 4 | 1 | 2 | 89 |
+| 360d | 2025-11-08 | 26 | 28 | 4 | 2 | 2 | 120 |
+| last720d | 2024-11-13 | 41 | 31 | 4 | 9 | 2 | 142 |
 
 ## Release assets
 
@@ -66,7 +66,7 @@ Total: **53,243** lines of code across **137** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/rebels-in-the-sky). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/rebels-in-the-sky). **5** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,4 +82,4 @@ Install metadata for rebels-in-the-sky lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:14:07Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:56:20Z._
