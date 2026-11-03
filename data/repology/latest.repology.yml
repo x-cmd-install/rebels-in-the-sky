@@ -35,28 +35,6 @@
     - GPL-3.0
   categories:
     - games
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: rebels-in-the-sky
-  binname: rebels-in-the-sky
-  visiblename: rebels-in-the-sky
-  version: 1.8.0
-  origversion: 1.8.0-1
-  status: outdated
-  summary: P2P terminal game about spacepirates playing basketball across the galaxy
-  licenses:
-    - GPL-3.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: rebels-in-the-sky
-  binname: rebels-in-the-sky
-  visiblename: rebels-in-the-sky
-  version: 1.8.0
-  origversion: 1.8.0-1
-  status: outdated
-  summary: P2P terminal game about spacepirates playing basketball across the galaxy
-  licenses:
-    - GPL-3.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: rebels-in-the-sky
