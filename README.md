@@ -38,22 +38,22 @@ Total: **53,243** lines of code across **137** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 762 · **Forks**: 28 · **Open issues**: 21 · **Contributors**: 8
+- **Stars**: 762 · **Forks**: 28 · **Open issues**: 22 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 36 · **Open PRs**: 3 · **Closed issues**: 19 · **Open issues**: 2 · **Commits**: 220
+- **Releases**: 61 · **Merged PRs**: 36 · **Open PRs**: 3 · **Closed issues**: 19 · **Open issues**: 3 · **Commits**: 220
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 3 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-14 | 0 | 5 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-15 | 2 | 9 | 1 | 1 | 1 | 8 |
-| last180d | 2026-05-17 | 5 | 22 | 3 | 1 | 2 | 88 |
-| 360d | 2025-11-18 | 26 | 29 | 3 | 2 | 2 | 119 |
-| last720d | 2024-11-23 | 38 | 31 | 3 | 4 | 2 | 138 |
+| 30d | 2026-10-15 | 0 | 1 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-15 | 0 | 5 | 0 | 0 | 2 | 0 |
+| 90d | 2026-08-16 | 2 | 9 | 1 | 1 | 2 | 8 |
+| last180d | 2026-05-18 | 5 | 22 | 3 | 1 | 3 | 88 |
+| 360d | 2025-11-19 | 25 | 29 | 3 | 2 | 3 | 119 |
+| last720d | 2024-11-24 | 38 | 31 | 3 | 4 | 3 | 138 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for rebels-in-the-sky lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:52:12Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:31:04Z._
