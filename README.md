@@ -42,18 +42,18 @@ Total: **53,243** lines of code across **137** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 36 · **Open PRs**: 4 · **Closed issues**: 19 · **Open issues**: 3 · **Commits**: 220
+- **Releases**: 61 · **Merged PRs**: 35 · **Open PRs**: 4 · **Closed issues**: 19 · **Open issues**: 3 · **Commits**: 220
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-24 | 0 | 5 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-25 | 2 | 9 | 2 | 1 | 2 | 2 |
-| last180d | 2026-05-27 | 5 | 19 | 3 | 1 | 2 | 87 |
-| 360d | 2025-11-28 | 23 | 29 | 4 | 1 | 3 | 115 |
-| last720d | 2024-12-03 | 35 | 30 | 4 | 3 | 3 | 134 |
+| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-25 | 0 | 4 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-26 | 2 | 8 | 2 | 1 | 2 | 2 |
+| last180d | 2026-05-28 | 5 | 19 | 3 | 1 | 2 | 87 |
+| 360d | 2025-11-29 | 23 | 29 | 4 | 1 | 3 | 115 |
+| last720d | 2024-12-04 | 35 | 30 | 4 | 3 | 3 | 134 |
 
 ## Release assets
 
@@ -66,7 +66,7 @@ Total: **53,243** lines of code across **137** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/rebels-in-the-sky). **6** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/rebels-in-the-sky). **7** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,4 +82,4 @@ Install metadata for rebels-in-the-sky lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:41:37Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:55:04Z._
