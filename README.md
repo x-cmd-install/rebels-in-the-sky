@@ -48,12 +48,12 @@ Total: **53,243** lines of code across **137** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 4 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-26 | 2 | 8 | 2 | 1 | 2 | 2 |
-| last180d | 2026-05-28 | 5 | 19 | 3 | 1 | 2 | 87 |
-| 360d | 2025-11-29 | 23 | 29 | 4 | 1 | 3 | 115 |
-| last720d | 2024-12-04 | 35 | 30 | 4 | 3 | 3 | 134 |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 0 | 4 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-27 | 1 | 8 | 2 | 1 | 2 | 2 |
+| last180d | 2026-05-29 | 5 | 19 | 3 | 1 | 2 | 87 |
+| 360d | 2025-11-30 | 22 | 29 | 4 | 1 | 3 | 115 |
+| last720d | 2024-12-05 | 35 | 30 | 4 | 3 | 3 | 134 |
 
 ## Release assets
 
@@ -64,15 +64,6 @@ Total: **53,243** lines of code across **137** files in the top 5 languages.
 | [rebels-v1.8.1-x86_64-pc-windows-gnu.tar.gz](https://github.com/ricott1/rebels-in-the-sky/releases/download/v1.8.1/rebels-v1.8.1-x86_64-pc-windows-gnu.tar.gz) | 8.8 MiB | `native/win/x64` |
 | [rebels-v1.8.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ricott1/rebels-in-the-sky/releases/download/v1.8.1/rebels-v1.8.1-x86_64-unknown-linux-gnu.tar.gz) | 9.3 MiB | `native/linux/x64/glibc` |
 
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/rebels-in-the-sky). **7** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.8.1` | ✅ latest |
-| Nix unstable | `1.8.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for rebels-in-the-sky lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rebels-in-the-sky` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +73,4 @@ Install metadata for rebels-in-the-sky lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:55:04Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:54:11Z._
