@@ -38,7 +38,7 @@ Total: **53,243** lines of code across **137** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 767 · **Forks**: 29 · **Open issues**: 22 · **Contributors**: 8
+- **Stars**: 768 · **Forks**: 28 · **Open issues**: 22 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **53,243** lines of code across **137** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-26 | 0 | 4 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-27 | 1 | 8 | 2 | 1 | 2 | 2 |
-| last180d | 2026-05-29 | 5 | 19 | 3 | 1 | 2 | 87 |
-| 360d | 2025-11-30 | 22 | 29 | 4 | 1 | 3 | 115 |
-| last720d | 2024-12-05 | 35 | 30 | 4 | 3 | 3 | 134 |
+| 30d | 2026-10-27 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-27 | 0 | 3 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-28 | 1 | 7 | 2 | 1 | 2 | 0 |
+| last180d | 2026-05-30 | 5 | 18 | 3 | 1 | 2 | 0 |
+| 360d | 2025-12-01 | 22 | 28 | 4 | 1 | 3 | 0 |
+| last720d | 2024-12-06 | 35 | 29 | 4 | 3 | 3 | 134 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for rebels-in-the-sky lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:54:11Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:27:59Z._
